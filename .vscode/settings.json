@@ -20,5 +20,6 @@
   "typescript.preferences.quoteStyle": "double",
   "editor.insertSpaces": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true,
+  "tailwindCSS.classFunctions": ["cva", "cx"]
 }
