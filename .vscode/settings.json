@@ -11,5 +11,13 @@
     "typescript": "typescriptreact"
   },
   "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
-  "editor.snippetSuggestions": "top"
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "files.autoSave": "afterDelay",
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double",
+  "editor.insertSpaces": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
