@@ -1,13 +1,13 @@
 const features = [
-    "Asset Library",
-    "Code Preview",
-    "Flow Mode",
-    "Smart Sync",
-    "Auto Layout",
-    "Fast Search",
-    "Smart Guides",
+  "Asset Library",
+  "Code Preview",
+  "Flow Mode",
+  "Smart Sync",
+  "Auto Layout",
+  "Fast Search",
+  "Smart Guides",
 ];
 
 export default function Features() {
-    return <div>Features</div>;
+  return <div>Features</div>;
 }
