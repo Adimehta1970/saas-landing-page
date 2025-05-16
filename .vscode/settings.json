@@ -10,7 +10,7 @@
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
   },
-  "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+  "emmet.showExpandedAbbreviation": "always",
   "editor.snippetSuggestions": "top",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
