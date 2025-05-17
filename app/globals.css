@@ -2,6 +2,8 @@
 
 @theme {
   --breakpoint-sm: 23.438rem;
+  --breakpoint-md: 48rem;
+  --breakpoint-lg: 75rem;
 }
 
 @theme inline {
@@ -9,9 +11,11 @@
 }
 
 @utility container {
-  padding-inline: 1rem;
   margin: auto;
-
+  
+  @variant sm {
+    padding-inline: 1rem;
+  }
   @variant md {
     padding-inline: 2rem;
   }
