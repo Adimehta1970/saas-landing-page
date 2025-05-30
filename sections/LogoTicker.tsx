@@ -9,7 +9,7 @@ import celestialLogo from "@/assets/images/celestial.svg";
 import twiceLogo from "@/assets/images/twice.svg";
 import Image from "next/image";
 import { Fragment } from "react";
-import { motion, useAnimate } from "framer-motion";
+import { motion } from "framer-motion";
 
 const logos = [
   { name: "Quantum", image: quantumLogo },
