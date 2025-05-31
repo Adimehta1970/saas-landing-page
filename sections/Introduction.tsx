@@ -25,10 +25,7 @@ export default function Introduction() {
 
   return (
     <section className="py-28 lg:py-40">
-      <div
-        className="container sm:max-w-2xl md:max-w-6xl lg:max-w-full h-[150vh]"
-        ref={scrollTarget}
-      >
+      <div className="container h-[150vh]" ref={scrollTarget}>
         <div className="sticky top-20 md:top-28 lg:top-40">
           <div className="flex justify-center">
             <Tag>Introducing Layers</Tag>

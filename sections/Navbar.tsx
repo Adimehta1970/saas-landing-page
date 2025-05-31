@@ -19,7 +19,7 @@ export default function Navbar() {
   return (
     <>
       <section className="py-4 lg:py-8 fixed w-full top-0 z-50">
-        <div className="container sm:max-w-2xl md:max-w-6xl lg:max-w-full">
+        <div className="container">
           <div className="border border-white/15 rounded-[27px] md:rounded-full bg-neutral-950/70 backdrop-blur">
             <div className="grid grid-cols-2 lg:grid-cols-3 p-2 px-4 md:pr-2 items-center">
               <div>

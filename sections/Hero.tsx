@@ -50,7 +50,7 @@ export default function Hero() {
       className="py-24 overflow-x-clip"
       style={{ cursor: `url(${cursonYouImage.src}), auto` }}
     >
-      <div className="container relative sm:max-w-2xl md:max-w-6xl lg:max-w-full">
+      <div className="container relative">
         <motion.div
           ref={leftDesignScope}
           initial={{ opacity: 0, y: 100, x: -100 }}

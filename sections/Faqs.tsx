@@ -33,7 +33,7 @@ export default function Faqs() {
   const selectedIndex = 0;
   return (
     <section className="py-24">
-      <div className="container sm:max-w-2xl md:max-w-6xl lg:max-w-full">
+      <div className="container">
         <div className="flex justify-center">
           <Tag>Faqs</Tag>
         </div>
